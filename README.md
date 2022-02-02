@@ -10,5 +10,5 @@
 
 🌱 Сейчас изучаю firebase, push notifications, navigation component, jetpack compose. 
 
-📫 Мой телеграм: @dad51
+📫 Мой телеграм: [@dad51](https://t.me/Dad51)
 
