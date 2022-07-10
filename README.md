@@ -4,7 +4,7 @@
 
 Последние мои проекты: 
 -  [Новостная лента](https://github.com/Dad52/NewsTestApp)(данные идут с [NewsApi](https://newsapi.org/))
- - [Калькулятор ОСАГО](https://github.com/Dad52/HackatonCalculatorOsago)
+ - [Калькулятор ОСАГО](https://github.com/Dad52/HackatonCalculatorOsago) - тестовое задание
  - Чат на firebase. 
  - [Конвертер температур](https://github.com/Dad52/Temperature-converter) - опубликовано в Google Play
  - Подсчетчик калорий, который сохраняет результаты каждый день и дает возможность их просмотривать через время
